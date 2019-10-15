@@ -1,4 +1,4 @@
-
+[![Build Status](https://alizent.visualstudio.com/SQAManagement/_apis/build/status/jeanlouisphamalizent.pipelines-java?branchName=master)](https://alizent.visualstudio.com/SQAManagement/_build/latest?definitionId=396&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
